@@ -1,0 +1,6 @@
+{
+  "name": "TaleMotion AI",
+  "description": "AI-powered Story-to-Video Creator. Transform stories into cinematic videos with consistent characters, scenes, narration, subtitles, and music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
